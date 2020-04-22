@@ -3,8 +3,8 @@
 3.8 > python version >= 3.6
 
 ## 프로젝트 시작하기
-- 프로젝트 다운로드 받기 `git clone `
-- 프로젝트 안으로 이동 `cd `
+- 프로젝트 다운로드 받기 `git clone https://github.com/Neulhan/hanyang_plate.git`
+- 프로젝트 안으로 이동 `cd hanyang_plate`
 - 가상환경 시작하기: `python3 -m venv venv` or `python -m venv venv` or `py -m venv venv`
 - 가상환경 활성화하기: `venv\Scripts\activate`
 
